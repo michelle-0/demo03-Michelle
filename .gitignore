@@ -1,2 +1,4 @@
-#demo03-Michelle
-#This is a practice of creating a new repo
+.DS_Store
+*.log
+node_modules/
+.vscode/
